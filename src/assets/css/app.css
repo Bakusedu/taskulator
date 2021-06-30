@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  font-family: "Nunito";
+}
+.icon-size {
+  font-size: 10px;
+  line-height: 10px;
+}
